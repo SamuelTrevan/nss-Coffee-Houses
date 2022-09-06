@@ -1,0 +1,17 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: left;
+    
+}
+.shop{
+    border: 1px dotted goldenrod;
+    flex-basis: 20%;
+    
+}
+
+.pageHeader{
+    text-align: center;
+
+}
